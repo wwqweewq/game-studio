@@ -1,0 +1,41 @@
+header p {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.03em;
+    color: #212121;
+    margin: 0;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    text-align: center;
+}
+
+span {
+    color: #2196f3;
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+.first-section {
+    height: 400px;
+    background-image: url(img/Header-img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 158px;
+    box-sizing: border-box;
+}
+h1 {
+    font-size: 26px;
+    line-height: 42px;
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+}
